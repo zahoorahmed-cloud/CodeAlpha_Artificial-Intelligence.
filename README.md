@@ -23,7 +23,3 @@ This repository contains the complete set of deliverables for the CodeAlpha AI I
 
 ---
 
-## 🚀 How to Run the Projects
-1. Clone the repository: `git clone https://github.com/your-username/your-repo-name.git`
-2. Install the dependencies: `pip install -r requirements.txt`
-3. Navigate to each specific task folder to run the application scripts.
